@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of Shanghai Expat Rental Market
 
-I scraped over 2000 pages of listings from the public listing website [jiazaishanghai](www.jiazaishanghai.com). Of the listings I gathered, I isolated listings that were for residential or mixed (residential/office) use; listings that were classified as attached lane houses, detached lane houses, public housing, or villas. I removed all listings appeared to have fake or inaccurate information. Lastly, I formatted all the addresses to prepare for geocoding.
+I scraped over 2000 pages of listings from the public listing website [jiazaishanghai](www.jiazaishanghai.com). Of the listings I gathered, I isolated listings that were for residential or mixed (residential/office) use; listings that were classified as attached lane houses, detached lane houses, public housing, or villas. I removed all listings that appeared to have fake or inaccurate information. Lastly, I formatted all the addresses to prepare for geocoding.
 
 In Tableau I have created the below three visualizations:
 
