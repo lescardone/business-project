@@ -40,7 +40,7 @@ I used geocode.xyz to obtain latitude and longitude for the addresses. I plotted
 
 ## COMMUNICATION
 *VISUALIZATIONS*
-1. Number of apartments for rent by district:
+1. Number of apartments (for rent and already rented) by district:
 
 
 ![image](../presentation/images/graphs/listings_by_district_xuhui.png)
