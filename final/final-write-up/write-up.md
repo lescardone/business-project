@@ -18,17 +18,15 @@ I hypothesized that there are opportunities to enter this market, and that we wo
 
 ## DATA
 
-I collected the data for this study from the open source listing website [Jia Zai Shanghai](https://www.jiazaishanghai.com)
+I collected the data for this study from the open source listing website [Jia Zai Shanghai](https://www.jiazaishanghai.com).
 
 I was able to 'scrape' about 5,000 samples of our target apartments (attached lane houses, detached lane houses, and concrete walk-ups). This website and its listings are not strictly regulated. The data contained invalid addresses, invalid pricing information, and duplicated listings, among other issues.
 
-After I removed invalid entries and duplicated listings, I had a data set of about 2,500 apartments.
-
-[Google Sheets](https://docs.google.com/spreadsheets/d/1Jpm2tPldOSDbgxkrSbyIXOZbSTx4Vu2PwcaLCxrOH_M/edit?usp=sharing)
+I worked between using [Google Sheets](https://docs.google.com/spreadsheets/d/1Jpm2tPldOSDbgxkrSbyIXOZbSTx4Vu2PwcaLCxrOH_M/edit?usp=sharing) and Python to remove invalid entries and duplicated listings. In the end I had a data set of about 2,500 apartments.
 
 ## DESIGN
 
-I used geocode.xyz to obtain latitude and longitude for the addresses. I plotted these coordinates on a map and analyzed the apartments by district, rent, and house type.
+I used geocode.xyz to obtain latitude and longitude for the addresses. I plotted these coordinates on a map and also analyzed the apartments by district, rent, and house type.
 
 
 ## ALGORITHMS/TOOLS
