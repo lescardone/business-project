@@ -24,6 +24,7 @@ I was able to 'scrape' about 5,000 samples of our target apartments (attached la
 
 After I removed invalid entries and duplicated listings, I had a data set of about 2,500 apartments.
 
+[Google Sheets](https://docs.google.com/spreadsheets/d/1Jpm2tPldOSDbgxkrSbyIXOZbSTx4Vu2PwcaLCxrOH_M/edit?usp=sharing)
 
 ## DESIGN
 
